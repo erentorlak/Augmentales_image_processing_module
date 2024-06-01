@@ -241,8 +241,8 @@ int main(int argc, char** argv) {
 
     std::thread t1(communication_thread);  // Create a thread to handle the communication with the server
 
-    std::string class_file_path = "C:\\Users\\erent\\source\\repos\\cson123\\cson123\\data\\coco.names";
-    std::string model_path = "C:\\Users\\erent\\source\\repos\\cson123\\cson123\\yolov5s.onnx";
+    std::string class_file_path = "data\\coco.names";
+    std::string model_path = "yolov5s_custom_model.onnx";
 
     std::vector<std::string> class_list = load_class_list(class_file_path);
 
