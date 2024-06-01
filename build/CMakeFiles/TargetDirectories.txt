@@ -1,0 +1,3 @@
+/home/erent/Desktop/Augmentales_image_processing_module-main/build/CMakeFiles/rebuild_cache.dir
+/home/erent/Desktop/Augmentales_image_processing_module-main/build/CMakeFiles/edit_cache.dir
+/home/erent/Desktop/Augmentales_image_processing_module-main/build/CMakeFiles/my_app.dir
