@@ -16,4 +16,4 @@ cmake ..
 
 make
 
-./myapp
+./my_app
